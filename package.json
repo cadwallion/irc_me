@@ -1,0 +1,16 @@
+{ "name" : "irc_me"
+, "description" : "A node.js IRC bot framework."
+, "author" : "Andrew Nordman <cadwallion@gmail.com> (http://cadwallion.com)"
+, "homepage" : "http://github.com/cadwallion/irc_me"
+, "version" : "0.1.0"
+, "main" : "./lib/irc_me"
+, "engines" : [ "node >=0.5.0-pre" ]
+, "repository" :
+  { "type" : "git"
+  , "url" : "http://github.com/cadwallion/irc_me.git"
+  }
+, "license" :
+  { "type" : "Public Domain"
+  , "url" : "http://github.com/cadwallion/irc_me/raw/master/UNLICENSE"
+  }
+}
